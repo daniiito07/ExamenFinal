@@ -1,0 +1,11 @@
+Model Information:
+* title:	My Stardew Valley Farm
+* source:	https://sketchfab.com/3d-models/my-stardew-valley-farm-75d4edbe7cef4642803cc9c2f9cd2d1a
+* author:	sundai (https://sketchfab.com/sundai)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "My Stardew Valley Farm" (https://sketchfab.com/3d-models/my-stardew-valley-farm-75d4edbe7cef4642803cc9c2f9cd2d1a) by sundai (https://sketchfab.com/sundai) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	stardew valley mods
+* source:	https://sketchfab.com/3d-models/stardew-valley-mods-d2d90f48ec904741b1977f2d00ac1c0b
+* author:	eeesprime (https://sketchfab.com/eeesprime)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "stardew valley mods" (https://sketchfab.com/3d-models/stardew-valley-mods-d2d90f48ec904741b1977f2d00ac1c0b) by eeesprime (https://sketchfab.com/eeesprime) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

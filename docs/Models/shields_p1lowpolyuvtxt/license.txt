@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shields_P1LowPolyUVTXT
+* source:	https://sketchfab.com/3d-models/shields-p1lowpolyuvtxt-953d6435ca844e07a1018d1e7302c920
+* author:	kas1838 (https://sketchfab.com/kas1838)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shields_P1LowPolyUVTXT" (https://sketchfab.com/3d-models/shields-p1lowpolyuvtxt-953d6435ca844e07a1018d1e7302c920) by kas1838 (https://sketchfab.com/kas1838) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

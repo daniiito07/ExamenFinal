@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lollipop
+* source:	https://sketchfab.com/3d-models/lollipop-83546c91954d4d6fb200cd68c20b45c8
+* author:	Gotche (https://sketchfab.com/Gotche)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lollipop" (https://sketchfab.com/3d-models/lollipop-83546c91954d4d6fb200cd68c20b45c8) by Gotche (https://sketchfab.com/Gotche) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
